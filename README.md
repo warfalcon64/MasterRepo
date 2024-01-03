@@ -7,3 +7,7 @@ My name is Amrit Menon. I am currently a student at the University of Chicago ma
 Blue Baron (In Progress, Solo Project): https://github.com/warfalcon64/Blue-Baron
 
 WebMedTools Website (In Progress, Solo Project): https://github.com/warfalcon64/webmedtools-app. An unfinished prototype can be seen at http://www.webmedtools.com
+
+**Note for Prospective Employers:**
+
+In accordance with the University of Chicago academic honesty policy, I am able to share proof of coding competency in any of my coursework through links to private course repositories. This can be done during interview with a prospective employer, or upon direct request. Please feel free to send me a request for proof of competency beyond my public repositories at the following email address: amritm@uchicago.edu
